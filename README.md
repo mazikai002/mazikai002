@@ -11,12 +11,9 @@
   <img src="https://img.shields.io/badge/visitors-462347-brightgreen" alt="Visitors">
 </div>
 
-<div align="left">
-  <a href="https://tryhackme.com">
-    <img src="./assets/banner.png" alt="Profile" width="45%" align="left">
-  </a>
+<div align="center">
+  <img src="./assets/banner.png" alt="Tech Stack" width="100%">
 </div>
-<br clear="all">
 
 ## 📊 Skills & Expertise
 
