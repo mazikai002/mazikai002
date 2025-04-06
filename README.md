@@ -11,12 +11,6 @@
   <img src="https://img.shields.io/badge/visitors-462347-brightgreen" alt="Visitors">
 </div>
 
-<div align="center">
-  <img src="./assets/banner.png" alt="Tech Stack" width="100%">
-</div>
-
-## Wel
-
 <div align="left">
   <a href="https://tryhackme.com">
     <img src="./assets/banner.png" alt="Profile" width="45%" align="left">
