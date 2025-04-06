@@ -1,7 +1,7 @@
 # Welcome to my profile!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazikai002/mazikai002/main/assets/banner.png" alt="Banner" width="100%" style="background: linear-gradient(90deg, rgba(179,136,235,1) 0%, rgba(149,153,226,1) 100%);">
+  <img src="./assets/up.png" alt="Banner" width="100%">
 </div>
 
 <div align="center">
@@ -14,14 +14,14 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazikai002/mazikai002/main/assets/tech_stack.png" alt="Tech Stack" width="100%">
+  <img src="./assets/banner.png" alt="Tech Stack" width="100%">
 </div>
 
 ## Wel
 
 <div align="left">
   <a href="https://tryhackme.com">
-    <img src="https://raw.githubusercontent.com/mazikai002/mazikai002/main/assets/profile.png" alt="Profile" width="45%" align="left">
+    <img src="./assets/banner.png" alt="Profile" width="45%" align="left">
   </a>
 </div>
 <br clear="all">
@@ -39,5 +39,5 @@
 ## 📊 GitHub Activity Graph:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mazikai002/mazikai002/main/assets/github_activity.png" alt="GitHub Activity Graph" width="100%">
+  <img src="./assets/down.png" alt="GitHub Activity Graph" width="100%">
 </div>
