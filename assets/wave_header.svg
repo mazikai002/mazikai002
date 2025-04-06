@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200">
   <defs>
     <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#b388eb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#9599e2;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#d4bfea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c7c9f0;stop-opacity:1" />
     </linearGradient>
   </defs>
   <path 
@@ -22,7 +22,7 @@
     />
   </path>
   
-  <text x="80" y="85" font-family="Arial" font-size="60" font-weight="bold" fill="white">
+  <text x="720" y="85" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="#444444" text-anchor="middle">
     Welcome to my profile!
   </text>
 </svg> 
