@@ -22,7 +22,7 @@
     />
   </path>
   
-  <text x="720" y="120" font-family="Arial, sans-serif" font-size="85" font-weight="bold" fill="white" text-anchor="middle">
+  <text x="720" y="120" font-family="Arial, sans-serif" font-size="85" font-weight="bold" fill="black" text-anchor="middle">
     Welcome to my profile!
   </text>
 </svg>
