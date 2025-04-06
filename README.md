@@ -39,5 +39,5 @@
 ## 📊 GitHub Activity Graph:
 
 <div align="center">
-  <img src="./assets/down.png" alt="GitHub Activity Graph" width="100%">
+  <img src="./assets/wave_animation.svg" alt="GitHub Activity Graph" width="100%">
 </div>
