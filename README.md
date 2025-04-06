@@ -34,8 +34,11 @@
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) |
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-412991?logo=openai&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
 
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mazikai002&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazikai002&layout=compact)
+
 ## 📊 GitHub Activity Graph:
 
-<div align="center">
-  <img src="./assets/wave_animation.svg" alt="GitHub Activity Graph" width="100%">
-</div>
+[![mazikai002's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazikai002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
