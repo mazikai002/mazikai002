@@ -1,28 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
   <defs>
     <linearGradient id="headerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" style="stop-color:#d4bfea;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#c7c9f0;stop-opacity:1" />
     </linearGradient>
   </defs>
+  
   <path 
     fill="url(#headerGradient)"
-    d="M0,0 L1440,0 L1440,140 C1320,180 1200,160 1080,140 C960,120 840,130 720,140 C600,150 480,160 360,150 C240,140 120,120 60,110 L0,100 Z">
+    d="M0,160 C320,260 640,60 960,160 C1280,260 1600,60 1920,160 L1920,320 L0,320 Z">
     
     <animate 
       attributeName="d" 
-      dur="15s"
+      dur="10s"
       repeatCount="indefinite"
       values="
-        M0,0 L1440,0 L1440,140 C1320,180 1200,160 1080,140 C960,120 840,130 720,140 C600,150 480,160 360,150 C240,140 120,120 60,110 L0,100 Z;
-        M0,0 L1440,0 L1440,130 C1320,150 1200,170 1080,160 C960,150 840,140 720,150 C600,160 480,150 360,140 C240,130 120,130 60,130 L0,130 Z;
-        M0,0 L1440,0 L1440,150 C1320,160 1200,150 1080,150 C960,150 840,160 720,160 C600,160 480,140 360,130 C240,120 120,110 60,120 L0,130 Z;
-        M0,0 L1440,0 L1440,140 C1320,180 1200,160 1080,140 C960,120 840,130 720,140 C600,150 480,160 360,150 C240,140 120,120 60,110 L0,100 Z
+        M0,160 C320,260 640,60 960,160 C1280,260 1600,60 1920,160 L1920,320 L0,320 Z;
+        M0,180 C320,80 640,260 960,180 C1280,80 1600,260 1920,180 L1920,320 L0,320 Z;
+        M0,160 C320,260 640,60 960,160 C1280,260 1600,60 1920,160 L1920,320 L0,320 Z
       "
     />
   </path>
   
-  <text x="720" y="85" font-family="Arial, sans-serif" font-size="85" font-weight="bold" fill="white" text-anchor="middle">
+  <text x="720" y="120" font-family="Arial, sans-serif" font-size="85" font-weight="bold" fill="white" text-anchor="middle">
     Welcome to my profile!
   </text>
-</svg> 
+</svg>
