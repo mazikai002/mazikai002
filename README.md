@@ -33,3 +33,7 @@
 ## 📊 GitHub Activity Graph:
 
 [![mazikai002's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazikai002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📅 GitHub Contribution Graph:
+
+[![mazikai002's github contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=mazikai002&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
