@@ -4,11 +4,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/status-updating-brightgreen" alt="Status Updating">
-  <img src="https://img.shields.io/badge/Python-3.12-blue" alt="Python 3.12">
   <img src="https://img.shields.io/badge/contributors-2-success" alt="Contributors">
   <img src="https://img.shields.io/github/stars/mazikai002?style=flat&logo=github&color=yellow" alt="Stars">
-  <img src="https://img.shields.io/github/forks/mazikai002?style=flat&logo=github&color=blue" alt="Forks">
-  <img src="https://img.shields.io/badge/visitors-462347-brightgreen" alt="Visitors">
 </div>
 
 <div align="center">
@@ -33,19 +30,3 @@
 ## 📊 GitHub Activity Graph:
 
 [![mazikai002's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mazikai002&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 📅 GitHub Contribution Graph:
-
-[![mazikai002's github contribution graph](https://github-readme-streak-stats.herokuapp.com/?user=mazikai002&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-## 🔥 GitHub Contribution Calendar:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mazikai002/mazikai002/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mazikai002/mazikai002/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mazikai002/mazikai002/output/github-contribution-grid-snake.svg">
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mazikai002&custom_title=Contribution%20Calendar&theme=github-compact&hide_border=true" width="100%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mazikai002&theme=github_dark" width="100%">
