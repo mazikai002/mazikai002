@@ -16,7 +16,7 @@
 
 | Property | Data |
 |----------|------|
-| **Language ** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![PyCharm](https://img.shields.io/badge/-PyCharm-000?logo=pycharm&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) |
+| **Language** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) ![PyCharm](https://img.shields.io/badge/-PyCharm-000?logo=pycharm&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white) |
 
 
 ## 📈 GitHub Stats
