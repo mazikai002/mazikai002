@@ -17,7 +17,7 @@
 <div align="center">
 
 | Category | Technologies |
-|----------|------|
+|:---:|:---:|
 | **Basics** | ![Operating Systems](https://img.shields.io/badge/-Operating_Systems-FCC624?style=flat&logo=linux&logoColor=black) ![Computer Networks](https://img.shields.io/badge/-Computer_Networks-0078D6?style=flat&logo=cisco&logoColor=white) ![Data Structures](https://img.shields.io/badge/-Data_Structures-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Algorithms](https://img.shields.io/badge/-Algorithms-0062AD?style=flat&logo=leetcode&logoColor=white) |
 | **Language** | ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 | **Framework** | ![Gin](https://img.shields.io/badge/-Gin-00ADD8?style=flat&logo=go&logoColor=white) ![GORM](https://img.shields.io/badge/-GORM-00ADD8?style=flat&logo=go&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![SSM](https://img.shields.io/badge/-SSM-6DB33F?style=flat&logo=spring&logoColor=white) |
